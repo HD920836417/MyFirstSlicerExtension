@@ -26,3 +26,4 @@ add_subdirectory(LineIntensityProfile)
 include(${Slicer_EXTENSION_GENERATE_CONFIG})
 include(${Slicer_EXTENSION_CPACK})
 #test remote
+#test mergeremote

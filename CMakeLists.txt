@@ -27,3 +27,4 @@ include(${Slicer_EXTENSION_GENERATE_CONFIG})
 include(${Slicer_EXTENSION_CPACK})
 #test remote
 #test mergeremote
+#2019-11-26

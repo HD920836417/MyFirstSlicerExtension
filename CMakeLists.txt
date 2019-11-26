@@ -25,3 +25,4 @@ add_subdirectory(LineIntensityProfile)
 #-----------------------------------------------------------------------------
 include(${Slicer_EXTENSION_GENERATE_CONFIG})
 include(${Slicer_EXTENSION_CPACK})
+#2019-11-26
